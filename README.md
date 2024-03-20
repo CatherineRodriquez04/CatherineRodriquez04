@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I play tennis, dance, and love traveling!** <br />
 
 ---
-#### Connect with Me!
+### Connect with Me!
 <div id="badges">
   <a href="https://www.linkedin.com/in/catherine-rodriquez04/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </a>
 
 ---
-#### My Stats!
+### My Stats!
   <img hsoace="15" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineRodriquez04&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   <img hspace="15" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=CatherineRodriquez04&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Catherine's GitHub Stats" />
   
