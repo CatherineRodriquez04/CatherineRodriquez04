@@ -1,4 +1,5 @@
-### Hi there 👋! I'm Catherine!
+<h1 align="center"> Hi there 👋! I'm Catherine!</h1>
+
 
 <!--
 **CatherineRodriquez04/CatherineRodriquez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://komarev.com/ghpvc/?username=CatherineRodriquez04&style=flat-square&color=blue" alt=""/>
+<img hspace="15" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=CatherineRodriquez04&background=1A2B34">
 -->
+<img src="https://komarev.com/ghpvc/?username=CatherineRodriquez04&style=flat-square&color=blue" alt=""/>
 
 - 🌱 I’m currently learning **AI, OO Design, Operating Systems, Programming Langauges, and Systems Programming**
 - 📫 How to reach me:
@@ -34,8 +36,10 @@ Here are some ideas to get you started:
 
 ---
 #### My Stats!
-  <img hspace="15" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=CatherineRodriquez04&show_icons=true&line_height=25&count_private=true&title_color=212121&text_color=212121&icon_color=1a237e&bg_color=00838f" alt="Catherine's GitHub Stats" />
-</a>
-  <img hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineRodriquez04&layout=compact&title_color=212121&text_color=212121&icon_color=1a237e&bg_color=00838f">
-</a>
+  <img hsoace="15" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineRodriquez04&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img hspace="15" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=CatherineRodriquez04&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Catherine's GitHub Stats" />
+  
+
+
+
 
