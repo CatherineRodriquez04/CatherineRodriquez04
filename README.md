@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=CatherineRodriquez04&style=flat-square&color=blue" alt=""/>
 
-- 🌱 I’m currently learning **AI, OO Design, Operating Systems, Programming Langauges, and Systems Programming**
+- 🌱 I’m currently learning **AI, OO Design, Operating Systems, Programming Langauges, and Systems Programming**<br />
 - 📫 How to reach me:
         <br />**email**: catherine.rodriquez.rodriquez04@gmail.com
-        <br />**phone number**: (225)-772-1794
-- ⚡ Fun fact: **I play tennis, dance, and love traveling!**
+        <br />**phone number**: (225)-772-1794 <br />
+- ⚡ Fun fact: **I play tennis, dance, and love traveling!** <br />
 
 ---
 #### Connect with Me!
