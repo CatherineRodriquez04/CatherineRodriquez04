@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img hspace="15" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=CatherineRodriquez04&background=1A2B34">
 -->
-<img src="https://komarev.com/ghpvc/?username=CatherineRodriquez04&style=flat-square&color=blue" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=CatherineRodriquez04&style=flat-square&color=blue" alt=""/>-->
 
 - 🌱 I’m currently learning **AI, OO Design, Operating Systems, Programming Langauges, and Systems Programming**<br />
 - 📫 How to reach me:
